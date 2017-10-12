@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Matriculas.dir/main.cpp.o CMakeFiles/Matriculas.dir/Alumno.cpp.o CMakeFiles/Matriculas.dir/Curso.cpp.o CMakeFiles/Matriculas.dir/Turno.cpp.o CMakeFiles/Matriculas.dir/Matricula.cpp.o CMakeFiles/Matriculas.dir/CursoTurno.cpp.o  -o Matriculas 
