@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nick/CLionProjects/Ejercicios/Cliente.hpp
+
+/home/nick/CLionProjects/Ejercicios/Lista.hpp
+cstddef
+-
+
+/home/nick/CLionProjects/Ejercicios/Productos.cpp
+Productos.hpp
+/home/nick/CLionProjects/Ejercicios/Productos.hpp
+
+/home/nick/CLionProjects/Ejercicios/Productos.hpp
+
+/home/nick/CLionProjects/Ejercicios/Venta.cpp
+Venta.hpp
+/home/nick/CLionProjects/Ejercicios/Venta.hpp
+
+/home/nick/CLionProjects/Ejercicios/Venta.hpp
+Productos.hpp
+/home/nick/CLionProjects/Ejercicios/Productos.hpp
+Lista.hpp
+/home/nick/CLionProjects/Ejercicios/Lista.hpp
+Cliente.hpp
+/home/nick/CLionProjects/Ejercicios/Cliente.hpp
+
+/home/nick/CLionProjects/Ejercicios/main.cpp
+iostream
+-
+Productos.hpp
+/home/nick/CLionProjects/Ejercicios/Productos.hpp
+Venta.hpp
+/home/nick/CLionProjects/Ejercicios/Venta.hpp
+Cliente.hpp
+/home/nick/CLionProjects/Ejercicios/Cliente.hpp
+Lista.hpp
+/home/nick/CLionProjects/Ejercicios/Lista.hpp
+

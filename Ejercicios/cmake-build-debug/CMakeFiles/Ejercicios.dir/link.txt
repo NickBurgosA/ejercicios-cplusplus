@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Ejercicios.dir/main.cpp.o CMakeFiles/Ejercicios.dir/Productos.cpp.o CMakeFiles/Ejercicios.dir/Venta.cpp.o  -o Ejercicios 
